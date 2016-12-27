@@ -2,7 +2,7 @@ package grafica;
 
 
 
-//Ciao Lugi come sta? 
+//Ciao Lugi come hjbjhbjhbjh
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Component;

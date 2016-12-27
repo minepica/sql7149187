@@ -1,17 +1,7 @@
 package grafica;
 
 
-<<<<<<< Updated upstream
-//asdasd sono ciao
-//Prova modifica 2 
-//akjnsdkjansjkda
-=======
-
-
-//non capisco se funzionaasadsax
-
-
->>>>>>> Stashed changes
+//prova definitiva
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Component;

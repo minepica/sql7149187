@@ -1,6 +1,9 @@
 package grafica;
 
 
+//Ciao Luigi come stai?
+
+
 
 import java.awt.BorderLayout;
 import java.awt.Color;

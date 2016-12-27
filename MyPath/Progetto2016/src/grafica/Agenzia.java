@@ -2,7 +2,8 @@ package grafica;
 
 
 
-//Ciao Lugi come hjbjhbjhbjh
+//Prova modifica 2 
+//akjnsdkjansjkda
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Component;

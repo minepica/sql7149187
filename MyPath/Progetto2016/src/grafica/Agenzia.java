@@ -1,7 +1,7 @@
 package grafica;
 
 
-//prova definitiva
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Component;
